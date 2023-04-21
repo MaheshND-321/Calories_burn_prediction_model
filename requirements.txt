@@ -5,5 +5,5 @@ matplotlib
 gunicorn
 numpy
 xgboost
-
+termcolor
 
