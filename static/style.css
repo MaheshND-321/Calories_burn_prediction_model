@@ -1,11 +1,11 @@
 body{
-    background-image: url('/static/gym.jfif');
+    background-image: url('/static/gym1.jfif');
 }
 
 form{
-    margin: 10px 330px;
+    margin: 10px 450px;
     padding: 20px 10px;
-    background-color: rgb(125, 122, 124);
+    background-color: rgb(236, 144, 234);
     border-radius: 25px;
 }
 
@@ -13,7 +13,7 @@ h1{
     font-size: 2.5rem;
     text-align: center;
     font-weight: bold;
-    color: red;
+    color: rgb(255, 123, 0);
     font-style: oblique;
 }
 
